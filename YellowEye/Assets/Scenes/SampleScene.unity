@@ -3566,7 +3566,7 @@ MonoBehaviour:
   - {x: 7.2718353, y: 0, z: -10.83699}
   - {x: -2.7584496, y: 0, z: -10.834663}
   extrude: 6.0719757
-  polyEditMode: 0
+  polyEditMode: 3
   flipNormals: 0
   isOnGrid: 0
 --- !u!4 &913109486
